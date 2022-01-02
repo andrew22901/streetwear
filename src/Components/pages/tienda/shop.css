@@ -1,0 +1,15 @@
+.shop-container{
+    display: grid;
+    
+    grid-template-columns: auto auto auto;
+    
+    
+}
+
+.shop-title{
+    text-align: center;
+    font-size: 36px;
+}
+.center{
+  justify-content: center;
+}
